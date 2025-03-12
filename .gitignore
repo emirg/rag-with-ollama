@@ -1,0 +1,4 @@
+.env
+app/api/__pycache__/
+app/data
+db_chroma
